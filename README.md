@@ -1,1 +1,0 @@
-Revert changes from commit 3d63a6f without undoing typo fixes at tutorials/privacy/coinjoin-coordinator/en.md line180 (as intent overrides general instructs.
